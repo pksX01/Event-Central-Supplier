@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+android:background="@android:color/transparent"
+    android:padding="10dp"
+    android:layout_height="match_parent"
+    tools:context=".dialog_box"
+    android:orientation="vertical">
+
+
+
+
+    <TextView
+        android:id="@+id/feature0"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/plan1"
+        android:textSize="14sp"
+        android:clickable="true"
+        android:focusable="true"
+        android:onClick="Plan1"
+        android:padding="20dp"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@android:color/darker_gray"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp">
+
+        <TextView
+            android:id="@+id/feature1"
+            android:layout_width="168dp"
+            android:layout_height="wrap_content"
+            android:text="@string/plan2"
+            android:textSize="14sp"
+            android:clickable="true"
+            android:focusable="true"
+            android:onClick="Plan2"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_toRightOf="@+id/feature1"
+            android:text="@string/save1"
+            android:textColor="@android:color/holo_blue_light"
+            android:textSize="13sp"
+            android:layout_toEndOf="@+id/feature1" />
+
+
+    </RelativeLayout>
+<View
+    android:layout_width="match_parent"
+    android:layout_height="1dp"
+    android:background="@android:color/darker_gray"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp">
+
+        <TextView
+            android:id="@+id/feature2"
+            android:layout_width="168dp"
+            android:layout_height="wrap_content"
+            android:text="@string/plan3"
+            android:textSize="14sp"
+            android:clickable="true"
+            android:focusable="true"
+            android:onClick="Plan3"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:layout_toRightOf="@+id/feature2"
+            android:text="@string/save1"
+            android:textColor="@android:color/holo_blue_light"
+            android:textSize="13sp"
+            android:layout_toEndOf="@+id/feature2"
+            android:layout_marginEnd="5dp" />
+
+
+    </RelativeLayout>
+
+
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/cancel"
+        android:textColor="@android:color/white"
+        android:background="@drawable/round_button"
+        android:id="@+id/btn_x"/>
+
+</LinearLayout>

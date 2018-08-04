@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">EventCentralSupplier</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Button">SIGN IN</string>
+    <string name="text1">Don\'t have an account?</string>
+    <string name="Button2">Sign Up</string>
+    <string name="Button3">Forgot?</string>
+    <string name="text2">Or Sign in with</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <string name="heading">Supplier/Venue Registration</string>
+    <string name="mobile">Mobile No.</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="statement">Already Registered? </string>
+    <string name="sign_in">Sign In</string>
+    <string name="name">Name</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <color name="bg">#F2BCF8</color>
+
+    <string name="skip">Skip</string>
+    <string name="stat1">BE FOUND BY EVENT PLANNERS</string>
+    <string name="stat2">Connect the public to your business with the UAE\'s leading event planning website.</string>
+    <string name="stat3">Learn More</string>
+
+    <string name="trial">7 days Trial</string>
+    <string name="pro">Pro Membership</string>
+    <string name="featured">Featured Membership</string>
+    <string name="txt">text to come here...</string>
+    <string name="select">Select</string>
+    <string name="bio1">Good for beginners or those just looking to get their feet wet.</string>
+    <string name="price1">100 AED or 6% minimum booking fee</string>
+    <string name="method">Accepts deposits of up to 1500 AED</string>
+    <string name="extra">2 photos</string>
+
+    <string name="txt1">Perfect for those wanting priority listing &amp; high visibility</string>
+    <string name="txt2">No Booking fee</string>
+    <string name="txt3">Top Priority in Search results</string>
+    <string name="txt4">Highest visibility </string>
+    <string name="txt5">Sendable Promotional Kits </string>
+    <string name="txt6">Up to 20 categories</string>
+    <string name="txt7">Accepts deposits up to 7000 AED</string>
+    <string name="txt8">Unlimited HD Photos Uploadable PDFs</string>
+    <string name="txt9">Upload audio files</string>
+    <string name="txt10">Add youtube/vimeo videos</string>
+    <string name="txt11">Priority Phone support &amp; Much more</string>
+
+    <string name="plan1">AED 150/Month</string>
+    <string name="plan2">AED 800/6 Month</string>
+    <string name="plan3">AED 1300/12 Month</string>
+    <string name="save1">Save AED 100</string>
+    <string name="save2">Save AED 500</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="business">Business</string>
+    <string name="capacity">Capacity</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="Zip">Zip Code</string>
+    <string name="about_buz">Tell us about your business</string>
+    <string name="nxt">Next</string>
+    <string name="venue">Venue</string>
+    <string name="supplier">Supplier</string>
+
+    <string name="facebook_app_id">278338829585661</string>
+    <string name="fb_login_protocol_scheme">fb278338829585661</string>
+
+
+</resources>
